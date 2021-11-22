@@ -33,7 +33,7 @@ Syntax highlighted code block
 
 ```
 
-## ** Algorithms and Data Structures
+## **Algorithms and Data Structures**
 ```markdown
 
 
