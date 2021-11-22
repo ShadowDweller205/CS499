@@ -26,7 +26,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ```markdown
-## Software Engineering/Design
+** Software Engineering/Design
+
+
+
+
+```
+
+## ** Algorithms and Data Structures
+```markdown
+
+
 
 
 
@@ -34,16 +44,7 @@ Syntax highlighted code block
 ```
 
 ```markdown
-## Algorithms and Data Structures
-
-
-
-
-
-```
-
-```markdown
-## Databases
+** Databases
 
 
 
