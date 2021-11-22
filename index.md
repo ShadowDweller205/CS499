@@ -25,6 +25,29 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+```markdown
+## Software Engineering/Design
+
+
+
+
+```
+
+```markdown
+## Algorithms and Data Structures
+
+
+
+
+
+```
+
+```markdown
+## Databases
+
+
+
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
