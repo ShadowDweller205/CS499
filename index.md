@@ -2,8 +2,6 @@
 
 I am a collage student in my final year for my Bachelor of Computer Science. I have spent 5 years working towards this goal at night and on weekends while holding full time positions at various companies. Below are just a few samples of my work and my capabilities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
