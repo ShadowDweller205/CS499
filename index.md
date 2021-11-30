@@ -49,11 +49,20 @@ illustration of the different lighting.
 
 ## **Algorithms and Data Structures**
 ```markdown
-
-
-
-
-
+   This artifact is a Java program written in Java. This is a
+program that is written to open and read a text file to find
+key words and display what is tied to the word and close the
+file. This was created on 2016-12-22. This is a good simple
+program that shows Object-oriented Programming. I selected 
+this artifact because I had fun making this object. The 
+specific component of the artifact that I wanted to show case
+is the algorithms. This program asks which file you want to
+open. Next it opens the file and ask what you want to look at.
+After you are done reading this file it closes the open 
+document. This program also steps through a search by reading
+and asking questions to see what you are looking for. This
+program could be modified easily to use a different file type
+or different words.
 ```
 
 ## **Databases**
