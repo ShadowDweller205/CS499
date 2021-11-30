@@ -2,9 +2,6 @@
 
 I am a collage student in my final year for my Bachelor of Computer Science. I have spent 5 years working towards this goal at night and on weekends while holding full time positions at various companies. Below are just a few samples of my work and my capabilities.
 
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -28,9 +25,11 @@ Syntax highlighted code block
 ```
 
 ## **Software Engineering/Design**
-```markdown
 !(https://github.com/ShadowDweller205/CS499/blob/gh-pages/mod2milestone2.jpg)
 !(https://github.com/ShadowDweller205/CS499/blob/gh-pages/lantern.PNG)
+
+
+```markdown
 
 
 
@@ -48,7 +47,7 @@ Syntax highlighted code block
 ## **Databases**
 ```markdown
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 
 
