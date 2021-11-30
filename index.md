@@ -1,6 +1,6 @@
 ## About Me
 
-I am a collage student in my final year for my Bachelor of Computer Science. I have spent 5 years working towards this goal at night and on weekends while holding full time positions at various companies. Below are just a few samples of my work and my capabilities.
+I am a college student in my final year for my Bachelor of Computer Science. I have spent 5 years working towards this goal at night and on weekends while holding full time positions at various companies. Below are just a few samples of my work and my capabilities.
 
 ### Markdown
 
