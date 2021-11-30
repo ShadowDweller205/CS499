@@ -31,20 +31,20 @@ Syntax highlighted code block
 
 
 ```markdown
-   This artifact is an OpenGL program created in C++. We took 
-a collection of boxes and turn it into something else with 
-three basic shapes. I have taken one box and changed it into 
+   This artifact is an OpenGL program created in C++. We took
+a collection of boxes and turn it into something else with
+three basic shapes. I have taken one box and changed it into
 a table that is a shape of a plane, and a lantern which was a
-lot of shapes of cubes and pyramids. This was created on 
-2021-03-11. I selected this artifact because I had fun making 
-this object. The specific component of the artifact that I 
-wanted to show case is my ability to see the creation of an 
-object in a set of points. I was able to see the points to 
+lot of shapes of cubes and pyramids. This was created on
+2021-03-11. I selected this artifact because I had fun making
+this object. The specific component of the artifact that I
+wanted to show case is my ability to see the creation of an
+object in a set of points. I was able to see the points to
 make the triangles to make a particular object. The first
 image is the lantern and table in my yard. The second image
-is the recreation of that object in this programming 
-environment. The scene is set at night to give the 
-illustration of the different lighting. 
+is the recreation of that object in this programming
+environment. The scene is set at night to give the
+illustration of the different lighting.
 ```
 
 ## **Algorithms and Data Structures**
