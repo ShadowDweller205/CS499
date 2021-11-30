@@ -25,8 +25,9 @@ Syntax highlighted code block
 ```
 
 ## **Software Engineering/Design**
-![Image](https://github.com/ShadowDweller205/CS499/blob/gh-pages/mod2milestone2.jpg)raw=true
-![Image](https://github.com/ShadowDweller205/CS499/blob/gh-pages/lantern.PNG)raw=true
+![Image](https://github.com/ShadowDweller205/CS499/blob/gh-pages/mod2milestone2.jpg)
+
+![Image](https://github.com/ShadowDweller205/CS499/blob/gh-pages/lantern.PNG)
 
 
 ```markdown
