@@ -57,8 +57,8 @@ program that shows Object-oriented Programming. I selected
 this artifact because I had fun making this object. The 
 specific component of the artifact that I wanted to show case
 is the algorithms. This program asks which file you want to
-open. Next it opens the file and ask what you want to look at.
-After you are done reading this file it closes the open 
+open. Next it opens the file and ask what you want to look
+at. After you are done reading this file it closes the open 
 document. This program also steps through a search by reading
 and asking questions to see what you are looking for. This
 program could be modified easily to use a different file type
