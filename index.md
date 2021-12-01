@@ -29,8 +29,8 @@ is the recreation of that object in this programming
 environment. The scene is set at night to give the
 illustration of the different lighting.
 ```
-[Link](url)
-[Link](url)
+[Link](Lantern.zip )
+[Link](../CS-330/blob/main/Mark7-1.zip)
 
 ## **Algorithms and Data Structures**
 ```markdown
