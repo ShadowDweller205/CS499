@@ -2,30 +2,11 @@
 
 I am a college student in my final year for my Bachelor of Computer Science. I have spent 5 years working towards this goal at night and on weekends while holding full time positions at various companies. Below are just a few samples of my work and my capabilities.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ## **Software Engineering/Design**
-![Image](mod2milestone2.jpg)style="width:500px;height:600px
+![Image](mod2milestone2.jpg)
 
 ![Image](lantern.PNG)
 
@@ -48,6 +29,8 @@ is the recreation of that object in this programming
 environment. The scene is set at night to give the
 illustration of the different lighting.
 ```
+[Link](url)
+[Link](url)
 
 ## **Algorithms and Data Structures**
 ```markdown
