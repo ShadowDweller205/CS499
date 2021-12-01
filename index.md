@@ -29,9 +29,9 @@ is the recreation of that object in this programming
 environment. The scene is set at night to give the
 illustration of the different lighting.
 ```
-[Lantern Repository Updated](Lantern.zip )
+[Lantern Repository](Lantern.zip )
 
-[Lantern Repository](../CS-330/blob/main/Mark7-1.zip)
+
 
 ## **Algorithms and Data Structures**
 ```markdown
@@ -50,6 +50,7 @@ and asking questions to see what you are looking for. This
 program could be modified easily to use a different file type
 or different words.
 ```
+[Zoo Repository](ZOO3.zip)
 
 ## **Databases**
 ```markdown
