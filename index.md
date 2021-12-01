@@ -34,6 +34,9 @@ illustration of the different lighting.
 
 
 ## **Algorithms and Data Structures**
+
+![Image](Zoo.PNG)
+
 ```markdown
    This artifact is a Java program written in Java. This is a
 program that is written to open and read a text file to find
