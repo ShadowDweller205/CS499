@@ -25,9 +25,9 @@ Syntax highlighted code block
 ```
 
 ## **Software Engineering/Design**
-![Image](mod2milestone2.jpg)
+![Image](mod2milestone2.jpg)![Image](lantern.PNG)
 
-![Image](lantern.PNG)
+
 
 
 ```markdown
