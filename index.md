@@ -1,8 +1,31 @@
 ## About Me
 
-I am a college student in my final year for my Bachelor of Computer Science. I have spent 5 years working towards this goal at night and on weekends while holding full time positions at various companies. Below are just a few samples of my work and my capabilities.
+I am a college student in my final year for my Bachelor of Computer Science. I have spent 5 years working towards this goal at night and on weekends while holding full time positions at various companies. I have started on my journey to computer science early on. I first started to code in hexadecimal on a Texas Instrument with a cassette tape backup. It took me three days of coding to get an eight-bite character to move up and down on the TV screen. I then moved onto writing my own batch files in DOS. I was working in IT before IT was a thing. I have been working for the past 23 years on 911 consoles with databases of the officers and fire departments pagers. I have made custom icons for the computer screen consoles. I have also worked on ethernet for radio connectivity around a whole county. I have incorporated the three agencies onto one channel by time domain multiplexing and then splitting the audio back out when back at the main site. I have seen and worked many programs and software platforms that are specialized for different pieces of equipment as well as creating special cables to connect the different pieces of equipment together that normally do not work together.
+Below are just a few samples of my work and my capabilities that I have learned as being enrolled in the Computer Science Degree. I have choose to show one of my first class work from 2016 and moving on till completion in 2021.
 
 
+
+## **Algorithms and Data Structures**
+
+![Image](Zoo.PNG)
+
+```markdown
+   This artifact is a Java program written in Java. This is a
+program that is written to open and read a text file to find
+key words and display what is tied to the word and close the
+file. This was created on 2016-12-22. This is a good simple
+program that shows Object-oriented Programming. I selected 
+this artifact because I had fun making this object. The 
+specific component of the artifact that I wanted to show case
+is the algorithms. This program asks which file you want to
+open. Next it opens the file and ask what you want to look
+at. After you are done reading this file it closes the open 
+document. This program also steps through a search by reading
+and asking questions to see what you are looking for. This
+program could be modified easily to use a different file type
+or different words.
+```
+[Zoo Repository](ZOO3.zip)
 
 
 ## **Software Engineering/Design**
@@ -32,28 +55,6 @@ illustration of the different lighting.
 [Lantern Repository](Lantern.zip )
 
 
-
-## **Algorithms and Data Structures**
-
-![Image](Zoo.PNG)
-
-```markdown
-   This artifact is a Java program written in Java. This is a
-program that is written to open and read a text file to find
-key words and display what is tied to the word and close the
-file. This was created on 2016-12-22. This is a good simple
-program that shows Object-oriented Programming. I selected 
-this artifact because I had fun making this object. The 
-specific component of the artifact that I wanted to show case
-is the algorithms. This program asks which file you want to
-open. Next it opens the file and ask what you want to look
-at. After you are done reading this file it closes the open 
-document. This program also steps through a search by reading
-and asking questions to see what you are looking for. This
-program could be modified easily to use a different file type
-or different words.
-```
-[Zoo Repository](ZOO3.zip)
 
 ## **Databases**
 ```markdown
