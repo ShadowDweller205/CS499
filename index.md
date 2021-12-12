@@ -59,11 +59,20 @@ illustration of the different lighting.
 
 ## **Databases**
 ```markdown
-
-
-
-
-
+This artifact is a Java program written in Java. This is a 
+program that is written to open and read a text file to find key
+words and display what is tied to the word and close the file. 
+This was created on 2016-12-22. This is a good simple program 
+that shows Object-oriented Programming. I have chosen this 
+program to show my capability to change from one type of file 
+structure to another. I am leaving the first part of this code 
+almost the same. I added a section to make sure you were 
+connected to the database before you start to ask questions to 
+it. Most of the work is done outside of the main program in the
+classes for each of the tables. In the old program it was reading
+from three different txt files. Now it is reading from three 
+tables in one database file. This Database was created in
+Microsoft Access.
 ```
 [Zoo Redo Repository](Zoo2.zip)
 
