@@ -58,6 +58,9 @@ illustration of the different lighting.
 
 
 ## **Databases**
+
+![Image](Zoo2.PNG)
+
 ```markdown
   This artifact is a Java program written in Java. This is a 
 program that is written to open and read a text file to find
