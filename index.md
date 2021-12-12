@@ -26,7 +26,7 @@ and asking questions to see what you are looking for. This
 program could be modified easily to use a different file type
 or different words.
 ```
-[Zoo Repository](ZOO3.zip)[Zoo Review](IT145review.mp4)
+[Zoo Repository](ZOO3.zip)        [Zoo Review](IT145review.mp4)
 
 
 ## **Software Engineering/Design**
@@ -53,7 +53,7 @@ is the recreation of that object in this programming
 environment. The scene is set at night to give the
 illustration of the different lighting.
 ```
-[Lantern Repository](Lantern.zip )[Lantern Review](LanternReview.mp4)
+[Lantern Repository](Lantern.zip )        [Lantern Review](LanternReview.mp4)
 
 
 
@@ -78,7 +78,7 @@ old program it was reading from three different txt files.
 Now it is reading from three tables in one database file. 
 This Database was created in Microsoft Access.
 ```
-[Zoo Redo Repository](Zoo2.zip)[Zoo2 Review](Zoo2.mp4)
+[Zoo Redo Repository](Zoo2.zip)         [Zoo2 Review](Zoo2.mp4)
 
 
 
