@@ -27,6 +27,7 @@ program could be modified easily to use a different file type
 or different words.
 ```
 [Zoo Repository](ZOO3.zip)
+
 [Zoo Review](IT145review.mp4)
 
 
@@ -55,6 +56,7 @@ environment. The scene is set at night to give the
 illustration of the different lighting.
 ```
 [Lantern Repository](Lantern.zip )
+
 [Lantern Review](LanternReview.mp4)
 
 
@@ -81,6 +83,7 @@ Now it is reading from three tables in one database file.
 This Database was created in Microsoft Access.
 ```
 [Zoo Redo Repository](Zoo2.zip)
+
 [Zoo2 Review](Zoo2.mp4)
 
 
